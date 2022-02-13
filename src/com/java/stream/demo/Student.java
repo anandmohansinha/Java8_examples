@@ -72,7 +72,7 @@ public class Student implements Comparable<Student>{
 
     @Override
         public String toString() {
-        return " ["  + sname + ", " + courseName + ", " + feePaid + ", " + feeBal +  "]";
+        return " ["  + sname + ", " + courseName + ", " + feePaid + ", " + courseName +  "]";
         }
 
 
